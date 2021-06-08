@@ -1,0 +1,14 @@
+C:\Users\KOSTA\source\repos\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\KOSTA\source\repos\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\KOSTA\source\repos\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\KOSTA\source\repos\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\KOSTA\source\repos\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+C:\Users\KOSTA\source\repos\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\KOSTA\source\repos\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\KOSTA\source\repos\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\KOSTA\source\repos\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\KOSTA\source\repos\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\source\repos\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\KOSTA\source\repos\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\KOSTA\source\repos\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+C:\Users\KOSTA\source\repos\App1\App1\obj\Debug\netstandard2.0\App1.pdb
